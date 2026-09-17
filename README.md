@@ -1,7 +1,2 @@
-# Slay the Spire 2 Event Viewer
-Lets you hover over the map icon to see available event pool + room odds. 
-Requires BaseLib to function
-
-## Installation
-please just use the steam workshop version
-
+# Card Rarity Preview
+Fork of EventViewer that lets you see the rarity of the card rewards instead.
