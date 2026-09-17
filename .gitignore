@@ -1,0 +1,23 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.godot/
+.idea/
+
+# .NET / Visual Studio
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+.vs/
+
+# Mono
+.mono/
+mono_crash.*
+*.uid
+
+# OS files
+.DS_Store
+Thumbs.db
