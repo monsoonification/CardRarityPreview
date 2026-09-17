@@ -1,9 +1,9 @@
 ﻿{
-  "id": "eventViewer_sts2",
-  "name": "EventViewer",
+  "id": "CardRarityPreview",
+  "name": "Card Rarity Preview",
   "author": "monsoonification",
-  "description": "Slay the Spire 2 mod lets you view current event pool for upcoming events.",
-  "version": "v1.0.4",
+  "description": "Slay the Spire 2 mod lets you view odds for obtaining each rarity of cards in upcoming card rewards.",
+  "version": "v1.0.0",
   "min_game_version": "0.107.0",
   "has_pck": true,
   "has_dll": true,

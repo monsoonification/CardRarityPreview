@@ -56,7 +56,7 @@
     <ItemGroup>
         <None Condition="Exists('Directory.Build.props')" Include="Directory.Build.props"/>
         <None Include=".gitignore"/>
-        <None Include="eventViewer_sts2.json"/>
+        <None Include="CardRarityPreview.json" />
         <None Include="project.godot"/>
         <None Include="eventViewer_sts2/**"/>
     </ItemGroup>

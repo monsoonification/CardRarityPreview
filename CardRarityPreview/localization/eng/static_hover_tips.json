@@ -1,0 +1,6 @@
+﻿{
+  "CARD_ODDS-POOL.title": "Card Reward Odds",
+  "CARD_ODDS-POOL.description": "{OddsList}",
+  "CARD_ODDS-NO_DATA.title": "Card Odds Unavailable",
+  "CARD_ODDS-NO_DATA.description": "Not in a run, or odds couldn't be read."
+}

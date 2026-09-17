@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eventViewer_sts2", "eventViewer_sts2.csproj", "{E141B851-73EB-49EF-8E81-A6C3563BA826}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardRarityPreview", "CardRarityPreview.csproj", "{E141B851-73EB-49EF-8E81-A6C3563BA826}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
